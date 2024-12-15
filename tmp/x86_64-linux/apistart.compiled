@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="/home/developer/fpcupdeluxe/fpc/bin/x86_64-linux/fpc.sh" Date="1711635869"/>
+  <Params Value=" -MObjFPC -Scghi -Cg -O1 -g -gl -Xg -l -vewnhibq -Fi/home/developer/app/mvc/app/api/tmp/x86_64-linux -Fu/home/developer/app/component/horse-master/src -Fu/home/developer/app/component/horse-logger-provider-logfile/src -Fu/home/developer/app/component/horse-logger/src -Fu/home/developer/app/component/horse-utils-clientip/src -Fu/home/developer/app/component/horse-logger-provider-console/src -Fu/home/developer/app/mvc/app/api/horse/ -FU/home/developer/app/mvc/app/api/tmp/x86_64-linux/ -FE/home/developer/app/mvc/app/api/lib/ -o/home/developer/app/mvc/app/api/lib/apistart apistart.lpr"/>
+</CONFIG>
